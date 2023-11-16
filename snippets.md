@@ -1,19 +1,18 @@
 ```
-public class MyClass {
-  public static void main(String[] args) {
-  System.out.print("a");
-    try {
-               System.out.print("b");
-               throw new IllegalArgumentException();
-         }catch (RuntimeException e) {
-                System.out.print(“c");
-                return;
-         } catch (Exception e) {
-                System.out.print(“d");
+class HelloWorld {
+    public static void main(String[] args) {
+        try {
+            System.out.println("A");
+            throw new IllegalArgumentException();
+        } catch(RuntimeException e) {
+            System.out.println("Run");
+            return;
+        } catch(Exception e) {
+            System.out.println("B");
         } finally {
-                System.out.print("f");
-      }
- System.out.print(“e");
+            System.out.println("c");
+        }
+        System.out.println("Exit");
     }
 }
 
