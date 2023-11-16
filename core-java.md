@@ -1,3 +1,4 @@
+```
 Core Java:
 What is the difference between == and .equals() in Java?
 Explain the concept of Java Virtual Machine (JVM).
@@ -33,3 +34,5 @@ How does the Java Collections Framework work?
 What are checked and unchecked exceptions in Java?
 Explain the concept of garbage collection in Java.
 What is the purpose of the finalize method in Java?
+```
+``
