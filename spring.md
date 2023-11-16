@@ -20,3 +20,14 @@ How does Spring Boot support externalized configuration?
 Explain the concept of Spring Boot profiles.
 What is the difference between a bean and a component in the context of Spring Boot?
 ```
+
+
+### REST
+```
+How can you secure a RESTful service?
+What is the role of the PUT and PATCH methods in RESTful services?
+Explain the concept of idempotence in REST.
+What is the purpose of the Cross-Origin Resource Sharing (CORS) mechanism in REST?
+What are the status codes
+@RestController usage.
+```
