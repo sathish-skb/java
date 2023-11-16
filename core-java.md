@@ -28,6 +28,7 @@ Threading:
 What is the difference between thread and process in Java?
 Explain the concept of synchronization in Java threading.
 What is the volatile keyword, and how does it differ from synchronized?
+
 String, Collections Framework, Exception Handling, String Buffer, Garbage Collection:
 Explain the difference between String and StringBuffer in Java.
 How does the Java Collections Framework work?
